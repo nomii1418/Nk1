@@ -1,0 +1,5 @@
+mechanical-aspirants/
+├── frontend/           (GitHub Pages)
+├── backend/           (Render/Glitch)
+├── telegram-bot/      (Render/Glitch)
+└── README.md
